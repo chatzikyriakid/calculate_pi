@@ -8,5 +8,5 @@ In this script, i use two of the most well known algorithms for the approximatat
   
 <h3> The Leibniz formula</h3>
 
-Leibniz formula uses inverse tangent which can be deployed as:
-<img src="/home/xristos/Desktop/2.svg">
+<p>Leibniz formula uses inverse tangent which can be deployed as:
+<img src="https://ibb.co/WDM1Tj7></p>
